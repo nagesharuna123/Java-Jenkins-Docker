@@ -24,7 +24,7 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello all from sherlin ${msg}
+				Hello all from Dharavath ${msg}
 			</c:if>
 
 			<c:if test="${empty msg}">
@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Dharavath's Technologies, Chennai, Inida ,TN. Excellent</h2>
+			<h2>Welcome To Dharavath's Technologies, Hyderabad, Inida ,TN. Excellent</h2>
 			<h3>Application Launching</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Sherlin Sharmi 2019</p>
+		<p>&copy; Dharavath 2019</p>
 	</footer>
 </div>
 
